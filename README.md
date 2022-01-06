@@ -7,7 +7,6 @@
 - 😄 Pronouns: Ela/Dela.
 
 <div>
-<a href="https://www.linkedin.com/in/anna-c-0921a81a1/">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carolina0110&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina0110&layout=compact&langs_count=7&theme=dark"/>
 </div>
