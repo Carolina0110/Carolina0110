@@ -1,14 +1,14 @@
 ### 👋 Olá, me chamo Anna Carolina.
 
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Fatec.
-- 👯 Procuro por estágios na área de tecnologia.
-- 👀 Me interesso muito pela área da tecnologia e programação.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Fatec.
+- 👀 Procuro por estágios na área de tecnologia.
+- 🌱 Me interesso muito pela área da tecnologia e programação.
 - 📫 Você pode entrar em contato comigo atráves do e-mail: anac.silvasouza1@gmail.com
 - 😄 Pronouns: Ela/Dela.
 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carolina0110&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina0110&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carolina0110&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina0110&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
