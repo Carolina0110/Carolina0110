@@ -1,4 +1,4 @@
-### 👋 Olá, me chamo Anna Carolina.
+### 👋 Olá, me chamo Ana Carolina.
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Fatec.
 - 👀 Procuro por estágios na área de tecnologia.
