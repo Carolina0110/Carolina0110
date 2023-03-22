@@ -1,8 +1,7 @@
 ### 👋 Olá, me chamo Ana Carolina.
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Fatec.
-- 👀 Procuro por estágios na área de tecnologia.
-- 🌱 Me interesso muito pela área da tecnologia e programação.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Me interesso muito pelas áreas de desenvolvimento de tecnologias.
 - 📫 Você pode entrar em contato comigo atráves do e-mail: anac.silvasouza1@gmail.com
 
 <br>
