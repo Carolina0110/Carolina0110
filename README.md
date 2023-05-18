@@ -1,6 +1,6 @@
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Me interesso muito pelas áreas de desenvolvimento mobile, web e design.
-- 📫 Você pode entrar em contato comigo atráves do meu e-mail: anac.silvasouza1@gmail.com
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- Me interesso muito pelas áreas de desenvolvimento mobile, web e design.
+- Você pode entrar em contato comigo atráves do meu e-mail: anac.silvasouza1@gmail.com
 
 <br>
 <div>
