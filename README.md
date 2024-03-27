@@ -1,5 +1,6 @@
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- Me interesso muito pelas áreas de desenvolvimento mobile, web e design.
+- Atualmente estou cursando Engenharia de Software.
+- Possuo uma formação em Análise e Desenvolvimento de Sistemas.
+- Back-end.
 - Você pode entrar em contato comigo atráves do meu e-mail: anac.silvasouza1@gmail.com
 
 <br>
