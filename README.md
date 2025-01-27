@@ -18,11 +18,6 @@
 
 <br>
 
-<!-- Painel da cobrinha -->
-<div align="center">
-  <img loading="lazy" src="https://github.com/Carolina0110/Carolina0110/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</div>
-
 <br>
 
 <!-- Logos das linguagens -->
